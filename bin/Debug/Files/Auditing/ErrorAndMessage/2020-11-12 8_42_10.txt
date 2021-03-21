@@ -1,0 +1,17 @@
+
+ Class = Main_Form , Method = SP_DataReceived , Error = Arithmetic operation resulted in an overflow.
+
+ Class = Main_Form , Method = comboBox1_Select_Update , Error = InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+
+ Class = Main_Form , Method = comboBox1_Select_Update , Error = InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+
+ Class = Main_Form , Method = comboBox1_Select_Update , Error = InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+
+ Class = Main_Form , Method = comboBox1_Select_Update , Error = InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+
+ Class = Main_Form , Method = comboBox1_Select_Update , Error = InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
