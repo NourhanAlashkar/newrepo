@@ -138,7 +138,7 @@ namespace Remote_SDS_Control_V1_0
                 File.Delete(ErrorAndMessagefilePath + fileName);
         }
 
-        // nourhan do experment
+        // nourhan do an experment////
         private static void CheckErrorFile()
         {
             //====================================================================
